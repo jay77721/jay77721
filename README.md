@@ -66,22 +66,6 @@ Built because the official web client deserved better. Supports playlists, lyric
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay77721&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay77721&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay77721&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Contact
 
 | Platform | Link |
