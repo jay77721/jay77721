@@ -1,74 +1,105 @@
-# Hi, I'm jay77721 👋
+<div align="center">
 
-> **Full-Stack Engineer · Building developer tools & distributed systems that scale.**
+# ⚡ Jay / @jay77721
 
-I don't just write code — I build things that solve real problems: from AI-powered dev workflows to high-performance infrastructure.
+### `AI Agent Workflows` · `Distributed Systems` · `Modern Frontend & DX`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agentic+Dev+Workflows;Crafting+High-Performance+Distributed+Systems;Obsessed+with+Fluent+UI+%26+Developer+Experience" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:xu2835024653@gmail.com"><img src="https://img.shields.io/badge/Email-xu2835024653%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jay77721"><img src="https://img.shields.io/badge/GitHub-jay77721-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20%7C%20Distributed%20Cache-0EA5E9?style=flat-square" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+</div>
 
-- 🔭 Building **multi-agent AI workflows** that turn one developer into a team
-- 🌱 Deepening **Rust** and **Kubernetes**
-- 💬 Open to collaborate on developer tools, AI infrastructure, and open source
+## 👨‍💻 About Me
+
+- 🔭 **AI & DevTools**: Architecting multi-session agentic workflows and developer productivity tooling.
+- ⚙️ **Distributed & Backend**: Engineering distributed in-memory cache engines, RPC communication, and high-concurrency storage systems.
+- 🎨 **UI / UX & Desktop**: Obsessed with responsive, fluid design (Windows 11 Fluent Design & Modern Web interfaces).
+- 🌱 **Currently exploring**: Rust ecosystem, Kubernetes operator architecture & LLM context boundary optimization.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack & Capabilities
 
-**Backend** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align="center">
 
-**Frontend** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI & Agent Architecture** | `Multi-Agent Orchestration` · `Agent Harness & Eval` · `RAG` · `Prompt Engineering` |
+| **Backend & Distributed** | `Go` · `Java` · `Python` · `gRPC` · `etcd` · `Redis` · `MySQL` · `Docker` |
+| **Frontend & UI / DX** | `TypeScript` · `React` · `Vite` · `Vue 3` · `Fluent UI Design` · `TailwindCSS` |
+| **Storage & Infrastructure** | `MinIO` · `Distributed File Storage` · `Linux` · `Git` · `CI/CD Workflows` |
 
-**Infrastructure** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat&logo=etcd&logoColor=white)
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,java,ts,react,vue,vite,docker,redis,mysql,git,linux&perline=12" alt="Tech Stack Icons" />
+  </a>
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### CXWorkflow ⭐ 7
+### 🤖 01. [CXWorkflow](https://github.com/jay77721/CXWorkflow)
+> *Turn a single AI coding assistant into a predictable, role-based, multi-session dev team.*
 
-> Turn a single AI coding assistant into a persistent, role-based development team.
-
-Most developers use AI coding tools one prompt at a time. CXWorkflow gives each thread a clear role, context boundary, and collaboration mechanism — so you can run parallel, long-running development workflows without losing state.
-
-[GitHub](https://github.com/jay77721/CXWorkflow)
-
----
-
-### SaokaCache
-
-> Distributed in-memory cache with built-in protection against penetration, breakdown, and avalanche.
-
-Production-ready caching for teams that can't afford to get it wrong. gRPC for communication, etcd for service discovery, and a clean Go codebase that's easy to extend.
-
-[GitHub](https://github.com/jay77721/SaokaCache)
+- 💡 **Highlights**: Solves context bloat and state loss in long-running AI coding sessions with strict role boundaries and asynchronous agent coordination.
+- 🛠️ **Stack**: `Python` · `Multi-Agent` · `DevTools` · `Workflow Automation`
+- 🔗 **Repository**: [github.com/jay77721/CXWorkflow](https://github.com/jay77721/CXWorkflow)
 
 ---
 
-### Cober-web-music ⭐ 2
+### ⚡ 02. [SaokaCache](https://github.com/jay77721/SaokaCache)
+> *High-performance distributed in-memory cache engine with comprehensive protection against Penetration, Breakdown, and Avalanche.*
 
-> A clean, responsive third-party NetEase Music client.
-
-Built because the official web client deserved better. Supports playlists, lyrics, MV, artist pages, and multi-quality audio — all in a snappy React + Vite interface.
-
-[GitHub](https://github.com/jay77721/Cober-web-music)
-
----
-
-### More Projects
-
-| Project | Description |
-|---------|-------------|
-| [agent-harness](https://github.com/jay77721/agent-harness) | Agent evaluation & orchestration framework |
-| [FileStore-server](https://github.com/jay77721/FileStore-server) | Cloud storage with chunked upload & deduplication |
-| [Cober-Windows-Bar](https://github.com/jay77721/Cober-Windows-Bar) | Win11 Fluent Design status hub |
+- 💡 **Highlights**: Production-grade Go caching with gRPC inter-node sync, etcd dynamic service discovery & registration, and SingleFlight concurrency control.
+- 🛠️ **Stack**: `Go` · `gRPC` · `etcd` · `Distributed Systems` · `Concurrency Control`
+- 🔗 **Repository**: [github.com/jay77721/SaokaCache](https://github.com/jay77721/SaokaCache)
 
 ---
 
-## 📫 Contact
+### 🪟 03. [Cober-Windows-Bar](https://github.com/jay77721/Cober-Windows-Bar) & [Cober-web-music](https://github.com/jay77721/Cober-web-music)
+> *Aesthetic desktop status hub prototype & modern responsive Web client.*
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [2835024653@qq.com](mailto:2835024653@qq.com) |
-| 🐙 GitHub | [jay77721](https://github.com/jay77721) |
+- **[Cober-Windows-Bar](https://github.com/jay77721/Cober-Windows-Bar)**: Win11 Fluent Design smart hub UI prototype for AI tasks, audio playback, notifications, and multi-task monitoring.
+- **[Cober-web-music](https://github.com/jay77721/Cober-web-music)**: Snappy third-party NetEase Music client built with React + Vite, playlist curation & multi-quality audio streaming.
+
+---
+
+### 📦 More Open-Source Projects
+
+| Repository | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| [**agent-harness**](https://github.com/jay77721/agent-harness) | `Python` / `Agent Orchestration` | Agent evaluation, sandbox harness & multi-model testing |
+| [**gofile / FileStore**](https://github.com/jay77721/gofile) | `Go` / `Vue 3` / `MinIO` | Self-hosted storage with chunked uploads, deduplication & dark UI |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay77721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay77721&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay77721&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & crafted by <a href="https://github.com/jay77721">jay77721</a> · Built for high engineering standards</sub>
+</div>
