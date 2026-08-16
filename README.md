@@ -92,7 +92,6 @@
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | [**agent-harness**](https://github.com/jay77721/agent-harness) | `Python` / `Agent Orchestration` | Agent evaluation, sandbox harness & multi-model testing |
-| [**FileStore-server**](https://github.com/jay77721/FileStore-server) | `Go` / `Distributed Storage` | High-throughput distributed cloud storage backend |
 
 ---
 
