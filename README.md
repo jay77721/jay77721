@@ -52,11 +52,11 @@
 
 ## 🔥 Featured Projects
 
-### 🚀 01. [gofile](https://github.com/jay77721/gofile) — Self-Hosted Cloud Storage System
-> *Lightweight, high-performance self-hosted file storage engine with chunked uploads, deduplication, and a modern Vue 3 interface.*
+### 🚀 01. [gofile](https://github.com/jay77721/gofile) — High-Throughput Distributed Cloud Storage
+> *Production-ready distributed cloud storage engine featuring high-concurrency transfers, chunked & resumable uploads, hash deduplication, and a modern Vue 3 interface.*
 
-- 💡 **Highlights**: Chunked & resumable file uploads, fast hash-based deduplication (秒传), dual storage backend (MinIO / Local filesystem), and responsive dark-mode UI.
-- 🛠️ **Stack**: `Go` · `Vue 3` · `TypeScript` · `MinIO` · `MySQL` · `Docker`
+- 💡 **Highlights**: Chunked & breakpoint-resumable uploads, fast SHA-256 hash deduplication (秒传), dual storage backend (MinIO / Local POSIX), high-throughput Go backend, and responsive dark-mode UI.
+- 🛠️ **Stack**: `Go` · `Distributed Storage` · `Vue 3` · `TypeScript` · `MinIO` · `MySQL` · `Docker`
 - 🔗 **Repository**: [github.com/jay77721/gofile](https://github.com/jay77721/gofile)
 
 ---
