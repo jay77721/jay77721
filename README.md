@@ -50,51 +50,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🚀 01. [gofile](https://github.com/jay77721/gofile) — High-Throughput Distributed Cloud Storage
-> *Production-ready distributed cloud storage engine featuring high-concurrency transfers, chunked & resumable uploads, hash deduplication, and a modern Vue 3 interface.*
-
-- 💡 **Highlights**: Chunked & breakpoint-resumable uploads, fast SHA-256 hash deduplication (秒传), dual storage backend (MinIO / Local POSIX), high-throughput Go backend, and responsive dark-mode UI.
-- 🛠️ **Stack**: `Go` · `Distributed Storage` · `Vue 3` · `TypeScript` · `MinIO` · `MySQL` · `Docker`
-- 🔗 **Repository**: [github.com/jay77721/gofile](https://github.com/jay77721/gofile)
-
----
-
-### 🤖 02. [CXWorkflow](https://github.com/jay77721/CXWorkflow) — AI Agent Dev Team Orchestrator
-> *Turn a single AI coding assistant into a predictable, role-based, multi-session dev team.*
-
-- 💡 **Highlights**: Solves context bloat and state loss in long-running AI coding sessions with strict role boundaries and asynchronous agent coordination.
-- 🛠️ **Stack**: `Python` · `Multi-Agent` · `DevTools` · `Workflow Automation`
-- 🔗 **Repository**: [github.com/jay77721/CXWorkflow](https://github.com/jay77721/CXWorkflow)
-
----
-
-### ⚡ 03. [SaokaCache](https://github.com/jay77721/SaokaCache) — Distributed In-Memory Cache
-> *High-performance Go distributed cache engine with full defense against Penetration, Breakdown, and Avalanche.*
-
-- 💡 **Highlights**: Production-grade Go caching with gRPC inter-node sync, etcd dynamic service discovery & registration, and SingleFlight concurrency control.
-- 🛠️ **Stack**: `Go` · `gRPC` · `etcd` · `Distributed Systems` · `Concurrency Control`
-- 🔗 **Repository**: [github.com/jay77721/SaokaCache](https://github.com/jay77721/SaokaCache)
-
----
-
-### 🪟 04. [Cober-Windows-Bar](https://github.com/jay77721/Cober-Windows-Bar) & [Cober-web-music](https://github.com/jay77721/Cober-web-music)
-> *Aesthetic desktop status hub prototype & modern responsive Web client.*
-
-- **[Cober-Windows-Bar](https://github.com/jay77721/Cober-Windows-Bar)**: Win11 Fluent Design smart hub UI prototype for AI tasks, audio playback, notifications, and multi-task monitoring.
-- **[Cober-web-music](https://github.com/jay77721/Cober-web-music)**: Snappy third-party NetEase Music client built with React + Vite, playlist curation & multi-quality audio streaming.
-
----
-
-### 📦 More Open-Source Projects
-
-| Repository | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| [**agent-harness**](https://github.com/jay77721/agent-harness) | `Python` / `Agent Orchestration` | Agent evaluation, sandbox harness & multi-model testing |
-
----
-
 <div align="center">
   <sub>Designed & crafted by <a href="https://github.com/jay77721">jay77721</a> · Built for high engineering standards</sub>
 </div>
