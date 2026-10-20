@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=header"/>
 
 <div align="center">
 
@@ -13,19 +13,19 @@
 <p align="center">
   <a href="mailto:xu2835024653@gmail.com"><img src="https://img.shields.io/badge/Email-xu2835024653%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jay77721"><img src="https://img.shields.io/badge/GitHub-jay77721-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-RAGFlow%20Ingestion%20%7C%20Multi--Agent-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-RAGFlow%20Ingestion%20%7C%20Multi--Agent-38BDF8?style=flat-square" />
 </p>
-
----
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-- 🔭 **RAG Engine @infiniflow**: Go ingestion pipeline, parser / chunker / tokenizer, PaddleOCR / PDFium / VLM, table & layout fidelity.
-- 🤖 **Agent Workflows**: `CXWorkflow` multi-session Codex team, Secretary as source of truth, serial relay, rate-limit safe.
-- ⚙️ **Distributed & Backend**: `gofile` chunked upload / MinIO, `SaokaCache` gRPC + etcd, NATS JetStream, Redis / MySQL.
-- 🎨 **Desktop & Web**: `Glance-Bar` Tauri + Fluent Design, React / Vite / Vue 3.
+- 🔭 **RAG Engine [@infiniflow](https://github.com/infiniflow)**: Go ingestion pipeline, parser / chunker / tokenizer, PaddleOCR / PDFium / VLM, table & layout fidelity.
+- 🤖 **Agent Workflows**: [`CXWorkflow`](https://github.com/jay77721/CXWorkflow) multi-session Codex team, Secretary as source of truth, serial relay, rate-limit safe.
+- ⚙️ **Distributed & Backend**: [`gofile`](https://github.com/jay77721/gofile) chunked upload / MinIO, [`SaokaCache`](https://github.com/jay77721/SaokaCache) gRPC + etcd, NATS JetStream, Redis / MySQL.
+- 🎨 **Desktop & Web**: [`Glance-Bar`](https://github.com/Team-Novara/Glance-Bar) Tauri + Fluent Design, React / Vite / Vue 3.
 - 🌱 **Now**: PDF highlight / citation, PaddleOCR layout, chunking for retrieval.
 
 ---
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,react,vue,vite,tauri,docker,redis,mysql,git,linux&perline=12" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,react,vue,vite,tauri,docker,redis,mysql,git,linux&perline=7" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -57,4 +57,4 @@
   <sub>Designed & crafted by <a href="https://github.com/jay77721">jay77721</a> · Built for high engineering standards</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
