@@ -53,29 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay77721&show_icons=true&title_color=0EA5E9&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=jay77721&background=FFFFFF&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=0EA5E9&sideNums=0EA5E9&currStreakLabel=38BDF8&sideLabels=64748B&dates=64748B" height="150" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay77721&layout=compact&title_color=0EA5E9&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" height="150" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Selected Projects
-
-<div align="center">
-  <a href="https://github.com/jay77721/CXWorkflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=CXWorkflow&title_color=0EA5E9&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" alt="CXWorkflow" /></a>
-  <a href="https://github.com/jay77721/gofile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=gofile&title_color=0EA5E9&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" alt="gofile" /></a>
-  <br/>
-  <a href="https://github.com/jay77721/SaokaCache"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=SaokaCache&title_color=0EA5E9&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" alt="SaokaCache" /></a>
-  <a href="https://github.com/Team-Novara/Glance-Bar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Novara&repo=Glance-Bar&title_color=0EA5E9&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF&border_color=38BDF8" alt="Glance-Bar" /></a>
-</div>
-
----
-
 <div align="center">
   <sub>Designed & crafted by <a href="https://github.com/jay77721">jay77721</a> · Built for high engineering standards</sub>
 </div>
