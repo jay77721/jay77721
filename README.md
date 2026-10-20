@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,react,vue,vite,tauri,docker,redis,mysql,git,linux&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,ts,react,vue,vite,tailwind,tauri,docker,redis,mysql,git,linux&perline=7" alt="Tech Stack Icons" />
   </a>
 </div>
 
