@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header"/>
+
 <div align="center">
 
 # ⚡ Jay / @jay77721
@@ -51,6 +53,33 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay77721&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=jay77721&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay77721&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay77721&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<div align="center">
+  <a href="https://github.com/jay77721/CXWorkflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=CXWorkflow&theme=tokyonight" alt="CXWorkflow" /></a>
+  <a href="https://github.com/jay77721/gofile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=gofile&theme=tokyonight" alt="gofile" /></a>
+  <br/>
+  <a href="https://github.com/jay77721/SaokaCache"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jay77721&repo=SaokaCache&theme=tokyonight" alt="SaokaCache" /></a>
+  <a href="https://github.com/Team-Novara/Glance-Bar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Novara&repo=Glance-Bar&theme=tokyonight" alt="Glance-Bar" /></a>
+</div>
+
+---
+
 <div align="center">
   <sub>Designed & crafted by <a href="https://github.com/jay77721">jay77721</a> · Built for high engineering standards</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
