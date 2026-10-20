@@ -60,8 +60,6 @@
   <img src="https://streak-stats.demolab.com?user=jay77721&theme=tokyonight" height="150" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay77721&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay77721&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
